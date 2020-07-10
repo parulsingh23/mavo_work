@@ -1,0 +1,29 @@
+{
+	"food": [
+		{
+			"alreadyAtHome": false,
+			"What's on the menu?": "eggs",
+			"store": "f"
+		},
+		{
+			"alreadyAtHome": false,
+			"What's on the menu?": "walnuts",
+			"store": "c"
+		},
+		{
+			"alreadyAtHome": false,
+			"What's on the menu?": "oatmeal",
+			"store": "c"
+		},
+		{
+			"alreadyAtHome": false,
+			"What's on the menu?": "ice cream cake",
+			"store": "s"
+		},
+		{
+			"alreadyAtHome": false,
+			"What's on the menu?": "milk",
+			"store": "f"
+		}
+	]
+}
