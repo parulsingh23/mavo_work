@@ -1,0 +1,33 @@
+{
+	"prop1": {
+		"big1": {
+			"stuff1": [
+				{
+					"author1": "Arnold Schwarzenegger",
+					"quote1": "I'll be back",
+					"tags1": "cool, feeling, movie"
+				},
+				{
+					"author1": "Maya Angelou",
+					"quote1": "If you don't like something, change it. If you can't change it, change your attitude.",
+					"tags1": "attitude, mindset, feeling"
+				},
+				{
+					"author1": "Thoreau",
+					"quote1": "I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+					"tags1": "thinking, success, direction"
+				},
+				{
+					"author1": "Dr. Seuss",
+					"quote1": "Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+					"tags1": "joy, unique, person"
+				},
+				{
+					"author1": "Robert Frost",
+					"quote1": "Two roads diverged in a wood, and I—I took the one less traveled by, and that has made all the difference.",
+					"tags1": "unique, direction"
+				}
+			]
+		}
+	}
+}
