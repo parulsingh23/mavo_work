@@ -1,0 +1,49 @@
+{
+	"cardioentry": [
+		{
+			"subject": "jump rope",
+			"name": "https://www.youtube.com/embed/1BZM2Vre5oc"
+		},
+		{
+			"subject": "kickboxing",
+			"name": "https://www.youtube.com/embed/6oLg5fFe5ww"
+		},
+		{
+			"subject": "martial arts",
+			"name": "https://www.youtube.com/embed/NmMRFWIokK4"
+		},
+		{
+			"subject": "HIIT",
+			"name": "https://www.youtube.com/embed/ml6cT4AZdqI"
+		},
+		{
+			"subject": "Calorie Knockout",
+			"name": "https://www.youtube.com/embed/s3F6R92s6_o"
+		}
+	],
+	"coreentry": [
+		{
+			"subject": "pamela reif",
+			"name": "https://www.youtube.com/embed/Q-vuR4PJh2c"
+		},
+		{
+			"subject": "madfit",
+			"name": "https://www.youtube.com/embed/-b2lNLq3EaA"
+		}
+	],
+	"quickieentry": [
+		{
+			"subject": "arms",
+			"name": "https://www.youtube.com/embed/XKBbn5GBw0Y"
+		},
+		{
+			"subject": "legs",
+			"name": "https://www.youtube.com/embed/VWZSkDJP0-I"
+		},
+		{
+			"subject": "calves",
+			"name": "https://www.youtube.com/embed/CSdn8tH-tzY"
+		}
+	],
+	"temp10": {}
+}
