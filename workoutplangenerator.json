@@ -1,0 +1,60 @@
+{
+	"cardioentry": [
+		{
+			"name": "jump rope",
+			"embedded url": "https://www.youtube.com/embed/1BZM2Vre5oc"
+		},
+		{
+			"name": "kickboxing",
+			"embedded url": "https://www.youtube.com/embed/6oLg5fFe5ww"
+		},
+		{
+			"name": "martial arts",
+			"embedded url": "https://www.youtube.com/embed/NmMRFWIokK4"
+		},
+		{
+			"name": "HIIT",
+			"embedded url": "https://www.youtube.com/embed/ml6cT4AZdqI"
+		},
+		{
+			"name": "Calorie Knockout",
+			"embedded url": "https://www.youtube.com/embed/s3F6R92s6_o"
+		}
+	],
+	"coreentry": [
+		{
+			"name": "pamela reif:",
+			"embedded url": "https://www.youtube.com/embed/Q-vuR4PJh2c"
+		},
+		{
+			"name": "BodyBuilding",
+			"embedded url": "https://www.youtube.com/embed/dJlFmxiL11s"
+		},
+		{
+			"name": "mad fit",
+			"embedded url": "https://www.youtube.com/embed/-b2lNLq3EaA"
+		},
+		{
+			"name": "Popsugar",
+			"embedded url": "https://www.youtube.com/embed/dNEZKqopc2I"
+		}
+	],
+	"quickieentry": [
+		{
+			"name": "arms",
+			"embedded url": "https://www.youtube.com/embed/XKBbn5GBw0Y"
+		},
+		{
+			"name": "legs",
+			"embedded url": "https://www.youtube.com/embed/VWZSkDJP0-I"
+		},
+		{
+			"name": "calves",
+			"embedded url": "https://www.youtube.com/embed/CSdn8tH-tzY"
+		},
+		{
+			"name": "triceps",
+			"embedded url": "https://www.youtube.com/embed/pSX4Dkzbc3U"
+		}
+	]
+}
