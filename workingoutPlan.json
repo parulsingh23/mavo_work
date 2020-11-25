@@ -1,11 +1,37 @@
 {
 	"Set": [
 		{
-			"setName": "cardio",
+			"setName": "Cardio",
 			"Entry": [
 				{
-					"name": "how",
-					"embedded url": "are you"
+					"name": "jump rope",
+					"embedded url": "https://www.youtube.com/embed/1BZM2Vre5oc"
+				},
+				{
+					"name": "kickboxing",
+					"embedded url": "https://www.youtube.com/embed/6oLg5fFe5ww"
+				},
+				{
+					"name": "martial arts",
+					"embedded url": "https://www.youtube.com/embed/NmMRFWIokK4"
+				}
+			]
+		},
+		{
+			"setName": "Core",
+			"Entry": [
+				{
+					"name": "pamela reif",
+					"embedded url": "https://www.youtube.com/embed/Q-vuR4PJh2c"
+				}
+			]
+		},
+		{
+			"setName": "Quick",
+			"Entry": [
+				{
+					"name": "arms",
+					"embedded url": "https://www.youtube.com/embed/XKBbn5GBw0Y"
 				}
 			]
 		}
